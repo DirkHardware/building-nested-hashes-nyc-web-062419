@@ -13,7 +13,7 @@ def second_challenge
       :heroine_friends => []
     }
   }
-
+end
 # def second_challenge
 #    epic_tragedy = {
 #      :montague => {
